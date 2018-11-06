@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5b3da053e7c0d5b406b5f505"},"id":{"$numberInt":"0"},"abv":"ZB","name":"Zebra","des":"Black and white"}
+{"_id":{"$oid":"5b3da053e7c0d5b406b5f506"},"id":{"$numberInt":"1"},"abv":"DK","name":"Duck","des":"Quack"}
+{"_id":{"$oid":"5b3da053e7c0d5b406b5f507"},"id":{"$numberInt":"2"},"abv":"CW","name":"Cow","des":"Moo"}
+{"_id":{"$oid":"5b3da053e7c0d5b406b5f508"},"id":{"$numberInt":"3"},"abv":"SH","name":"Sheep","des":"Bah"}
+{"_id":{"$oid":"5b3da053e7c0d5b406b5f509"},"id":{"$numberInt":"4"},"abv":"SN","name":"Snake","des":"Slither"}
+{"_id":{"$oid":"5b3da053e7c0d5b406b5f50a"},"id":{"$numberInt":"5"},"abv":"DG","name":"Dog","des":"Bark"}
+{"_id":{"$oid":"5b3da053e7c0d5b406b5f50b"},"id":{"$numberInt":"6"},"abv":"CT","name":"Cat","des":"Scratch"}
+{"_id":{"$oid":"5b3da053e7c0d5b406b5f50c"},"id":{"$numberInt":"7"},"abv":"AP","name":"Ape","des":"King Kong"}
+{"_id":{"$oid":"5b3da053e7c0d5b406b5f50d"},"id":{"$numberInt":"8"},"abv":"GK","name":"Gecko","des":"Geico"}
+{"_id":{"$oid":"5b3da053e7c0d5b406b5f50e"},"id":{"$numberInt":"9"},"abv":"KG","name":"Kangaroo","des":"Pouch"}

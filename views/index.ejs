@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3> Animals</h3>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+$.ajax({
+    url: 'http://localhost:3000/animals/test',
+    contentType: 'application/json',
+    success: function(response) {
+        loadAnimals(response.animalsArray);
+    }
+});
+</script>
+<script src="dom.js"></script>
+</body>
+</html>
